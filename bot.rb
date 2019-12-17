@@ -7,7 +7,7 @@ module RubyBuild
             command :get_latest_episode do
                 title 'get_latest_episode'
                 desc 'description non classic'
-                long_desc 'long_description 19'
+                long_desc 'long_description 20'
             end
         end
     end
