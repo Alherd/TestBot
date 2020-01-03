@@ -8,7 +8,7 @@ module RubyBuild
                 title 'get latest release'
                 desc 'description non classic'
                 desc2 'description non classic'
-                long_desc 'long_description 33'
+                long_desc 'long_description 34'
             end
         end
     end
