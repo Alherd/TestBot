@@ -7,7 +7,7 @@ module RubyBuild
             command :get_latest_release do
                 title 'get latest release'
                 desc 'description non classic'
-                desc2 'description non classiqq'
+                desc2 'description non classiq'
                 long_desc 'long_description 100'
             end
         end
